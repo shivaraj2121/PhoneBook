@@ -77,7 +77,7 @@ while (true) {
             console.log("Invalid choice!");
         }
         } catch (error) {
-            console.error("An error occurred:", error.message);
+             //console.error("An error occurred:", error.message);
         }
         }
      
